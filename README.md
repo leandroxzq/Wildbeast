@@ -4,4 +4,4 @@
 
 Um site desenvolvido durante o curso de Grid da Origamid. Projeto desenvolvido durante o curso utilizando recursos e informações relacionadas ao aprendizado.
 
-🔗 [wildbeast](https://leandroxzq.github.io/wildbeast/)
+🔗 [wildbeast](https://leandroxzq.github.io/Wildbeast/)
